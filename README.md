@@ -1,1 +1,1 @@
-kaanroyal.guvenlibonus.com
+kaanroyal.com
