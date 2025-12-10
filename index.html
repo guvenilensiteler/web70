@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Güvenilen Siteler</title>
-    <link rel="stylesheet" href="https://kaanroyal.guvenlibonus.com/css/new.css?v5.47">
-    <link rel="shortcut icon" href="https://kaanroyal.guvenlibonus.com/favicon.png">
+    <link rel="stylesheet" href="https://kaanroyal.com/css/new.css?v5.47">
+    <link rel="shortcut icon" href="https://kaanroyal.com/favicon.png">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.4.1/css/swiper.min.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -515,7 +515,7 @@
         },
         created(){
             this.loading = true;
-            axios.get('https://kaanroyal.guvenlibonus.com/data.json?v=0.0.1')
+            axios.get('https://kaanroyal.com/data.json?v=0.0.1')
                 .then((response) => {
                     this.client = response.data.html
                     this.king = _.find(this.client.categories, ['id', 1710467155101]);
