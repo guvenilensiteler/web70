@@ -546,10 +546,7 @@
         "name": "Elmas Site",
         "sort": "3",
         "sites": [
-          {
-            "site": "primebahis",
-            "sort": "1"
-          },
+
           {
             "site": "onwin",
             "sort": "2"
