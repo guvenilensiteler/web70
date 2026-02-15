@@ -40,7 +40,7 @@
         "slider_img": ""
       },
       {
-        "url": "https://t2m.io/kaanroyal",
+        "url": "https://t2m.io/mersoemre",
         "desc": [
           "2.025₺ DENEME BONUSU"
         ],
@@ -53,7 +53,7 @@
         "slider_img": ""
       },
       {
-        "url": "https://cutt.ly/kaanroyal",
+        "url": "https://cutt.ly/emreonline",
         "desc": [
           "4444FS DENEME BONUSU"
         ],
@@ -61,12 +61,11 @@
         "sort": null,
         "color": "#1a98ff",
         "miktar": "4444FS",
-        "promo_code": null,
         "promo_code_yok": "min 100 tl yatırım | ERTESİ GÜN FREESPİNLERİ",
         "slider_img": ""
       },
       {
-        "url": "https://t2m.io/kaanroyall",
+        "url": "https://t2m.io/amgemre",
         "desc": [
           "KAYIT OL 5.000₺ DENEME BONUSUNU AL! "
         ],
@@ -90,7 +89,7 @@
         "slider_img": ""
       },
       {
-        "url": "https://cutt.ly/sr0lFu3t",
+        "url": "https://cutt.ly/vrH45nA5",
         "desc": [
           "400 TL DİREKT ÇEKİM DENEME BONUSU!"
         ],
@@ -126,7 +125,7 @@
         "slider_img": ""
       },
       {
-        "url": "https://cutt.ly/NrH49APA",
+        "url": "https://cutt.ly/ctxjMZOX",
         "desc": [
           "750₺ DENEME BONUSU"
         ],
@@ -174,7 +173,7 @@
         "slider_img": ""
       },
       {
-        "url": "https://cutt.ly/emreermd",
+        "url": "https://cutt.ly/ssylap",
         "desc": [
           "500 TL DENEME BONUSU"
         ],
@@ -446,18 +445,6 @@
         "miktar": "₺1.000",
         "promo_code_yok": "",
         "slider_img": ""
-      },
-      {
-        "url": "https://cutt.ly/1tuOgAX2",
-        "desc": [
-          "1.000 TL DENEME BONUSU"
-        ],
-        "site": "tofasbet",
-        "sort": null,
-        "color": "#007ec1",
-        "miktar": "₺1.000",
-        "promo_code_yok": "",
-        "slider_img": ""
       }
     ],
     "social": {
@@ -471,7 +458,7 @@
       "telegram": null,
       "instagram": null
     },
-    "cdn_url": "https://kaanroyal.com/",
+    "cdn_url": "https://emreresmi.com/",
     "is_slider": true,
     "background": null,
     "categories": [
@@ -548,11 +535,11 @@
         "sort": "3",
         "sites": [
           {
-            "site": "onwin",
+            "site": "tipobet",
             "sort": "1"
           },
           {
-            "site": "tipobet",
+            "site": "onwin",
             "sort": "2"
           },
           {
@@ -575,33 +562,34 @@
             "site": "supertotobet",
             "sort": "7"
           },
+
           {
             "site": "dedebet",
-            "sort": "8"
-          },
-          {
-            "site": "palazzobet",
             "sort": "9"
           },
           {
-            "site": "bahibom",
+            "site": "palazzobet",
             "sort": "10"
           },
           {
-            "site": "venombet",
+            "site": "bahibom",
             "sort": "11"
           },
           {
-            "site": "grandpashabet",
+            "site": "venombet",
             "sort": "12"
           },
           {
-            "site": "amgbahis",
+            "site": "grandpashabet",
             "sort": "13"
           },
           {
-            "site": "mersobahis",
+            "site": "amgbahis",
             "sort": "14"
+          },
+          {
+            "site": "mersobahis",
+            "sort": "15"
           }
         ]
       },
