@@ -276,7 +276,7 @@
         "slider_img": ""
       },
       {
-        "url": "https://cutt.ly/wtwIl7AL",
+        "url": "https://cutt.ly/CrfvFvNJ",
         "desc": [
           "750 TL & 750 FREE SPIN"
         ],
@@ -546,9 +546,12 @@
         "name": "Elmas Site",
         "sort": "3",
         "sites": [
-
           {
             "site": "onwin",
+            "sort": "1"
+          },
+          {
+            "site": "tipobet",
             "sort": "2"
           },
           {
